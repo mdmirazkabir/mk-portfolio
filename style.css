@@ -18,7 +18,7 @@ h1{
 .productnow{
     color: goldenrod;
 }
-section{
+.felexi-sec{
     display: flex;
 }
 .half{
@@ -60,6 +60,4 @@ section{
            padding:10px;
 
 }
-.mid-sec{
-    display: flexbox;
-}
+
