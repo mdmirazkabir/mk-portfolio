@@ -3,6 +3,7 @@ body{
 }
 .paragraph{
     text-align: justify;
+    
 }
 h1{
     font-size:40px ;
@@ -19,6 +20,9 @@ section{
 .half{
     width: 50%;
     padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 1%;
+    background-color: rgba(232, 235, 238, 0.849);
 }
 .half img
 {
@@ -30,4 +34,16 @@ section{
     padding: 10px 20px;
     border-radius: 5px;
     
+}
+.facebook{
+    color: royalblue;
+}
+.top-image{
+    padding-top: 20px;
+}
+.headertext{
+    text-align: center;
+}
+.fb-image{
+    padding-top: 100px;
 }
