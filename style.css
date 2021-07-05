@@ -7,3 +7,16 @@ h1{
 .organce-color{
     color: coral;
 }
+.productnow{
+    color: goldenrod;
+}
+section{
+    display: flex;
+}
+.half{
+    width: 50%;
+}
+.half img
+{
+    width: 100%;
+}
