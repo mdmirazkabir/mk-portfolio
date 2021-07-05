@@ -55,3 +55,11 @@ section{
 .fb-image{
     padding-top: 100px;
 }
+.one-third{
+           width:33%;
+           padding:10px;
+
+}
+.mid-sec{
+    display: flexbox;
+}
