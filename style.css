@@ -1,6 +1,10 @@
 body{
     font-family: 'Otomanopee One', sans-serif;
 }
+.background{
+    background-image: url(../mk-portfolio/image/Background.png);
+    background-repeat: no-repeat;
+}
 .paragraph{
     text-align: justify;
     
@@ -23,6 +27,10 @@ section{
     padding-right: 5%;
     padding-top: 1%;
     background-color: rgba(232, 235, 238, 0.849);
+    border-radius: 5%;
+    padding-bottom: 2%;
+
+    
 }
 .half img
 {
