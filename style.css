@@ -106,4 +106,13 @@ h1{
 
 footer p {
     text-align: center;
+    background-color: slategrey;
+}
+
+.felexi2-sec{
+    display: flex;
+    
+}
+#ftt{
+    text-align: center;
 }
