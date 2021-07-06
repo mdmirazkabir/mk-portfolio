@@ -4,7 +4,11 @@ body{
 .background{
     background-image: url(../mk-portfolio/image/Background.png);
     background-repeat: no-repeat;
-}
+    display: flex;
+    }
+ .only-flex{
+     display: flex;
+ }   
 .paragraph{
     text-align: justify;
     
@@ -20,6 +24,8 @@ h1{
 }
 .felexi-sec{
     display: flex;
+    background-image: url(../mk-portfolio/image/bg.png);
+    background-repeat:repeat-x ;
 }
 .half{
     width: 50%;
@@ -65,6 +71,35 @@ h1{
     margin-left: 3%;
     margin-right: 3%;
     padding-left: 5px;
+    border-radius: 10px;
 
     box-shadow: 10px 10px 50px grey;
+}
+
+.twitter{
+    color: rgb(62, 157, 245);
+}
+.youtube{
+    color: rgba(255, 0, 0, 0.781);
+}
+
+.insta{
+    color: orangered;
+}
+
+#tw-br{
+    border-left: 8px solid;
+    border-color: rgb(61, 132, 238);
+    border-image-slice: 1;
+}
+#yt-br{
+    border-left: 8px solid;
+    border-image: linear-gradient(red,orange);
+    border-image-slice: 1;
+}
+
+#ins-br{
+    border-left: 8px solid;
+    border-color: rgb(240, 130, 4);
+    border-image-slice: 1;
 }
